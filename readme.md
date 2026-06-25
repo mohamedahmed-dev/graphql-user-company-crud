@@ -1,3 +1,4 @@
+## Lab Screenshots
 ## GraphiQL
 <img width="1913" height="983" alt="Screenshot from 2026-06-25 12-51-18" src="https://github.com/user-attachments/assets/f6aff097-8755-48e6-9d33-e0b6d94bf1b3" />
 
